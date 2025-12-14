@@ -1,0 +1,15 @@
+[package]
+name = "naira-format"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bashir <kushimobashir2000@gmail.com>"]
+description = "A lightweight Rust crate for formatting and parsing Nigerian Naira (₦) amounts."
+license = "MIT"
+repository = "https://github.com/sublime247/naira-format"
+homepage = "https://github.com/sublime247/naira-format"
+documentation = "https://docs.rs/naira-format"
+keywords = ["naira", "money", "currency", "ngn", "finance"]
+categories = ["value-formatting", "finance"]
+readme = "README.md"
+
+[dependencies]
