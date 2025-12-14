@@ -1,6 +1,6 @@
 [package]
 name = "naira-format"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Bashir <kushimobashir2000@gmail.com>"]
 description = "A lightweight Rust crate for formatting and parsing Nigerian Naira (₦) amounts."
