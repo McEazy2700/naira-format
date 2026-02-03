@@ -2,6 +2,7 @@
 /// Format a number into Nigerian Naira format.
 ///
 /// Examples:
+pub mod word;
 
 #[derive(Debug, PartialEq)]
 pub enum ParseError {

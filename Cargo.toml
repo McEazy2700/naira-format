@@ -13,3 +13,8 @@ categories = ["value-formatting", "finance"]
 readme = "README.md"
 
 [dependencies]
+num2words = { version = "1.2.0", optional = true }
+
+[features]
+default = ["words"]
+words = ["dep:num2words"]
